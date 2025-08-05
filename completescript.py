@@ -81,8 +81,6 @@ if inp == "text":
 
 elif inp == "speech":
     Recording()
-    if interim_text == "stop recording":
-        print("Ending Recording and Passing to AI...")
 
 
 #Cleanup
